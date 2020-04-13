@@ -1,0 +1,1 @@
+Creating a user : curl -X POST localhost:8080/create_user/ -H 'Content-type:application/json' -d '{"id":"1","lastName": "Gamgee", "firstName": "Samwise"}'
